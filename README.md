@@ -25,10 +25,10 @@
 # 02-Homework/09-SQL/Instructions/README.md of GitLab.
 #
 #
-# for more questions email me at
+# Please email questions to
 # papadiscobravo@gmail.com
 # 
 # papadiscobravo.github.io
 #
 # Paul Bernhardt
-# 14
+# 15
