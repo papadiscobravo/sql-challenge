@@ -31,17 +31,4 @@
 # papadiscobravo.github.io
 #
 # Paul Bernhardt
-#
-#              |  *
-#              |                            *
-#              |                *
-#              |                       *
-#    median    |         *
-#   household  |                  *
-#    income    |   *
-#              |             *
-#              |
-#              | *         *
-#              |                     *
-#              |-------------------------------
-#                      population density
+# 10
