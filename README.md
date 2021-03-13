@@ -9,15 +9,15 @@
 # dept-emp
 #
 #
-# The ERD is
-# Screen Shot 2021-02-27 at 5.22.01 PM.png
+# The ERD is in
+# ERD.png
 #
 #
-# The table schemata are found here:
+# The table schemata are in
 # schemata.sql
 #
 #
-# The queries are found here:
+# The queries are in
 # queries.sql
 #
 #
@@ -31,4 +31,4 @@
 # papadiscobravo.github.io
 #
 # Paul Bernhardt
-# 11
+# 12
