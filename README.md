@@ -14,7 +14,7 @@
 #
 #
 # The table schemata are found here:
-# QuickDBD-export3.sql
+# schemata.sql
 #
 #
 # The queries are found here:
