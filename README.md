@@ -21,8 +21,8 @@
 # queries.sql
 #
 #
-# Each query is numbered, 1-8, corresponding to the homework questions at
-# 02-Homework/09-SQL/Instructions/README.md of GitLab.
+# Each query is numbered 1-8 according to the homework questions found at
+# 02-Homework/09-SQL/Instructions/README.md of this BootCamp's GitLab.
 #
 #
 # Please email questions to
@@ -31,4 +31,4 @@
 # papadiscobravo.github.io
 #
 # Paul Bernhardt
-# 16
+# 17
