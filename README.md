@@ -33,14 +33,15 @@
 # Paul Bernhardt
 #
 #              |  *
-#              |
+#              |                            *
 #              |                *
 #              |                       *
-#              |         *
-#              |                  *
-#              |   *
+#    median    |         *
+#   household  |                  *
+#    income    |   *
 #              |             *
 #              |
 #              | *         *
 #              |                     *
 #              |-------------------------------
+#                      population density
