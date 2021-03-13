@@ -9,7 +9,7 @@
 # dept-emp
 #
 #
-# The ERD is in
+# The entity relationship diagram is in
 # ERD.png
 #
 #
@@ -31,4 +31,4 @@
 # papadiscobravo.github.io
 #
 # Paul Bernhardt
-# 17
+# 18
